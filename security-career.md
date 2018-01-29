@@ -1,6 +1,9 @@
 Hi 
 
-I am computer professional and in a age where next generation asks you questions regarding career choices and direction :) Obviously from me, often related to IT. A son of my friend wants to do undergrad in cyber security. I am however not sure if youngsters should make that choice right in the start unless they are confident of their natural talent and have exhibited it practically. In my opinion and experience, there is a considerable percentage of students in any course who are/remain average. Every field have different level of acceptance for the average. I know how it works for programming but not too sure about security. So here are some questions
+Sorry for an invite. I am actually looking for some answers from people in cyber security. You can reply either on linked-in or at babarali@gmail.com. 
+
+I am computer professional and in an age where next generation asks you questions regarding career choices and 
+direction :) Obviously from me, often related to IT. A son of my friend wants to do undergrad in cyber security. I am however not sure if youngsters should make that choice right in the start unless they are confident of their natural talent and have exhibited it practically. In my opinion and experience, there is a considerable percentage of students in any course who are/remain average. Every field have different level of acceptance for the average. I know how it works for programming but not too sure about security. So here are some questions
 
 - Is it a good idea to do a Bachelors of Cyber security course or is it better to general Computer Science degree with major potentially in security?
 
